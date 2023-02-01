@@ -218,8 +218,8 @@ GDAL_LIBRARY_PATH = VIRTUAL_ENV_BASE + '\Lib\site-packages\osgeo\gdal304.dll'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'portal@macity.edu.in'
-EMAIL_HOST_PASSWORD = 'dgsz eycl viwy twlr'
+EMAIL_HOST_USER = 'enter your email'
+EMAIL_HOST_PASSWORD = 'password here'
 EMAIL_USE_TLS = True
 
 
